@@ -1,5 +1,5 @@
-# steering-wheel-prediction
-Steering wheel angle prediction for self-driving cars
+# Steering-wheel-angle-prediction
+      
 
 ## Study List
 ### videos
@@ -18,4 +18,5 @@ Steering wheel angle prediction for self-driving cars
 ### For Coding
 
 Framework : Pytorch
+
 [Learn Pytorch in 60 min for basics](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
