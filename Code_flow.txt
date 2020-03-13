@@ -1,0 +1,4 @@
+Step 1 : Reading from log file(csv file)
+Step 2 : Dividing dataset into training and testing
+Step 3 : a) Define the augmentation, transformation processes, parameters and dataset for dataloader.
+       : b) Creating generator using the dataloader to parallasize the process.
