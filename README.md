@@ -13,8 +13,11 @@
 ### Reading Materials
 
 [Self Driving Cars Blog](https://towardsdatascience.com/deep-learning-for-self-driving-cars-7f198ef4cfa2)
+
 [What is Augmentation? Brief](https://medium.com/self-driving-cars/image-augmentation-bc75fd02a0ff)
+
 [Augmentation? In Depth](https://chatbotslife.com/using-augmentation-to-mimic-human-driving-496b569760a9#.87xw9m6cp)
+
 ### For Coding
 
 Framework : Pytorch
