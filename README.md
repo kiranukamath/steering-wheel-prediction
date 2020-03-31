@@ -1,6 +1,8 @@
 # Steering-wheel-angle-prediction
       
 
+[Our published paper](IRJET-V7I3924.pdf)
+
 ## Study List
 ### Videos
 
