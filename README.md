@@ -3,6 +3,8 @@
 
 [Our published paper](IRJET-V7I3924.pdf)
 
+[PPT](Major_Project.pptx)
+
 ## Study List
 ### Videos
 
