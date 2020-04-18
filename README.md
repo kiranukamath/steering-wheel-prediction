@@ -29,5 +29,5 @@ We are using google colab(since it provides free GPU)
 Train the model, and test it using simulator.
 
 
-[Project PPT](Major_Project.pptx)
+[Project PPT](Major_Project.pdf)
 
