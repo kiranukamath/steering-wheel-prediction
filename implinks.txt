@@ -1,0 +1,6 @@
+what is deeplearning https://www.youtube.com/watch?v=vPjHlXCnEdE
+cnn https://m.youtube.com/watch?v=FTr3n7uBIuE
+self driving cars https://www.youtube.com/watch?v=EaY5QiZwSP4
+What is Augmentation Brief https://medium.com/self-driving-cars/image-augmentation-bc75fd02a0ff
+Augmentation? In Depth](https://chatbotslife.com/using-augmentation-to-mimic-human-driving-496b569760a9#.87xw9m6cp)
+
