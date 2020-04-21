@@ -33,5 +33,5 @@ Train the model, and test it using simulator.
 
 [Working video](https://drive.google.com/drive/folders/1nxvC_Vx7nJBfdKb0mlQn_NVA56M42OEB?usp=sharing)
 
-[Project PPT](Major_Project.pdf)
+[Project PPT](Presentation.pdf)
 
