@@ -28,6 +28,10 @@ We are using google colab(since it provides free GPU)
 
 Train the model, and test it using simulator.
 
+## Result
+![](images/output1.png)
+
+[Working video](https://drive.google.com/drive/folders/1nxvC_Vx7nJBfdKb0mlQn_NVA56M42OEB?usp=sharing)
 
 [Project PPT](Major_Project.pdf)
 
