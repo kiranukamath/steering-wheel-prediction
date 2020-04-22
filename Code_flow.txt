@@ -1,4 +1,4 @@
-Step 1 : Reading from log file(csv file)
-Step 2 : Dividing dataset into training and testing
-Step 3 : a) Define the augmentation, transformation processes, parameters and dataset for dataloader.
-       : b) Creating generator using the dataloader to parallasize the process.
+
+1. Data generation ---> using simulator
+2. Training ----> using Google Colab   ------> Copy_of_Steering_Wheel_angle_prediction.ipyn[Training script]
+3. Testing ---> using simulator ---> drive.py[Testing script], model.h5[Trained CNN model from step 2]
